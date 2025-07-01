@@ -14,6 +14,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5785eafe-3943-4c4a-8d01-c67b3158f6db/deploy-status)](https://video-compilation-page-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-html-video-compilation-page&left_text=repo%20views)
 
 ## ℹ️ A Video Compilation Tribute to blink-182's Greatest Hits
 
